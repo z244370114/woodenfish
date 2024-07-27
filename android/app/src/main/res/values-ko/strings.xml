@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">나무 물고기 - 영창 유물</string>
+    <string name="hello">你好！</string>
+    <string name="setting">设置</string>
+    <string name="privacyPolicy">隐私政策</string>
+    <string name="userAgreement">用户协议</string>
+    <string name="aboutUs">关于我们</string>
+    <string name="bgm">背景音乐</string>
+    <string name="automaticTapping">自动敲击</string>
+    <string name="skin">皮肤</string>
+    <string name="timbre">音色</string>
+    <string name="bgmVolume">背景音乐音量</string>
+    <string name="tapInterval">敲击间隔(1)秒</string>
+    <string name="tapGeedback">敲击反馈</string>
+    <string name="meritsAndVirtues">功德</string>
+    <string name="earlyBirthSon">早生贵子</string>
+    <string name="theMoneyIsRolling">财源滚滚</string>
+    <string name="everyPass">逢考必过</string>
+    <string name="agree">同意</string>
+    <string name="userAgreementTip">“木鱼”主要用于平静内心情绪，防止冲动,我们在向您提供服务时，可能需要收集使用您账号相关信息及调用账号服务,存储,读取手机状态和身份,和一点网络信息及网络服务权限，我们承诺您的个人信息仅用于我们声明的目的。点击“同意”即表示您同意上述内容。</string>
+</resources>
