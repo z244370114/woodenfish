@@ -1,16 +1,8 @@
-# woodenfish
+# 木鱼
+在佛教修行中，木鱼是一种常用的传统辅助工具，用于帮助修行者专注和保持节奏
 
-A new Flutter project.
+## 项目截图
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| ![](scannphoto/1.3.1/简体中文/小米应用商店-1080X1920/screen-1.jpeg)	 | ![](scannphoto/1.3.1/简体中文/小米应用商店-1080X1920/screen-2.jpeg)	 | ![](scannphoto/1.3.1/简体中文/小米应用商店-1080X1920/screen-3.jpeg)  | ![](scannphoto/1.3.1/简体中文/小米应用商店-1080X1920/screen-4.jpeg)	 | 
+|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
+| ![](scannphoto/1.3.1/简体中文/小米应用商店-1080X1920/screen-5.jpeg)	 | ![](scannphoto/1.3.1/简体中文/小米应用商店-1080X1920/screen-6.jpeg)	 | ![](scannphoto/1.3.1/简体中文/小米应用商店-1080X1920/screen-7.jpeg)	 | ![](scannphoto/1.3.1/简体中文/小米应用商店-1080X1920/screen-8.jpeg)	 | 	 
